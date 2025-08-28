@@ -1,0 +1,5 @@
+This is a short introduction to the usage of the Jupiter code dedicated to the classification of the cells segmented on 
+non-linear excitation images. 
+It requires that the NLM image has been analyzed by means of QuPath so to obtain the "Measurement file" that is the output of 
+the "Sho Deterction Measurement" tool. It also requires that an average Binary Feature Vector is defined for as many cell types as possible. 
+

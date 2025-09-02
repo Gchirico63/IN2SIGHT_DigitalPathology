@@ -1,0 +1,2 @@
+All codes in this repository are licensed under EUPL.
+https://interoperable-europe.ec.europa.eu/collection/eupl/documentation-repository
